@@ -1,3 +1,4 @@
+//直接发送完成消息
 $.ajax({
 	type: "get",
 	url: "//im.zhihuishu.com/live/liveQianDao",
